@@ -1,0 +1,10 @@
+Package: wkcr
+Title: General R functions
+Version: 0.1
+Authors@R: person("William", "Chang", email = "williamkurtischang@gmail.com",
+                  role = c("aut", "cre"))
+Description: Conversion between data types, etc., other purposes
+Depends: R (>= 3.4.0)
+License: MIT + file LICENSE
+LazyData: true
+RoxygenNote: 6.0.1
