@@ -10,6 +10,6 @@
 df_2_mat <- function(df) {
   rn <- df[, 1]
   m <- as.matrix(df[, -1])
-  rownames(m) <- rn
+ 	rownames(m) <- rn
   m
 }
